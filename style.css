@@ -1,0 +1,16 @@
+.header {
+    background: grey;
+    padding: 10px;
+}
+
+.left {
+    width: 50%;
+    background: white;
+    float: left;
+}
+
+.content {
+    background: #cac7c7;
+    float: left;
+    width: 50%;    
+}
